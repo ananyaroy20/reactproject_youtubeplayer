@@ -1,0 +1,21 @@
+.iot{
+    border: 2px solid black;
+    height: 50px;
+    width: 1000px;
+    border-spacing: 1px;
+  }
+  
+  .rows{
+   
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+    width: 1000px;
+    height: 350px;
+  }
+  
+  .row{
+    width: 1000px;
+    
+    
+  }
